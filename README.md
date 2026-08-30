@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tasnem Islam Prome 👋
 
-<!--
-**tasnem-tech/tasnem-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc (Hons) Applied Computing — University of Portsmouth  
+💻 IT Engineering | Data Analytics | Machine Learning  
+📊 Python | SQL | Power BI | Excel | Data Visualisation  
+🔬 Research experience with publications in Q1-ranked journals  
+🧠 Interested in AI, Machine Learning & Applied Research  
+📚 Level 5 Teacher Training with experience in UK secondary education  
+✈️ Previous professional experience at London Luton Airport  
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- Machine Learning
+- Data Analysis & Visualisation
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building practical data, machine-learning and IT projects while completing my BSc (Hons) Applied Computing.
