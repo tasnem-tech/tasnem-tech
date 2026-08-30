@@ -5,7 +5,7 @@
 📊 Python | SQL | Power BI | Excel | Data Visualisation  
 🔬 Research experience with publications in Q1-ranked journals  
 🧠 Interested in AI, Machine Learning & Applied Research  
-📚 Level 5 Teacher Training with experience in UK secondary education  
+📚 Level 5 Teaching Qualification (FE) | Experience Teaching IT in UK Secondary Education
 ✈️ Previous professional experience at London Luton Airport  
 
 ## Technical Skills
