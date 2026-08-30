@@ -1,6 +1,6 @@
 # Hi, I'm Tasnem Islam Prome 👋
 
-🎓 BSc (Hons) Applied Computing — University of Portsmouth  
+🎓 BSc (Hons) Applied Computing — School of Computing, University of Portsmouth
 
 💻 IT Engineering | Data Analytics | Machine Learning  
 
