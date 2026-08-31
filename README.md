@@ -1,5 +1,7 @@
 # Hi, I'm Tasnem Islam Prome 👋
 
+🏆 **The Portsmouth Award 2025/26 — University of Portsmouth**
+
 ## IT Engineering | Applied Computing | Data Analytics | Machine Learning | AI Research
 
 **🎓 BSc (Hons) Applied Computing — School of Computing, University of Portsmouth**
