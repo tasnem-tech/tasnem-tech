@@ -2,7 +2,7 @@
 
 ## IT Engineering | Applied Computing | Data Analytics | Machine Learning | AI Research
 
-🎓 BSc (Hons) Applied Computing — School of Computing, University of Portsmouth
+**🎓 BSc (Hons) Applied Computing — School of Computing, University of Portsmouth**
 
 💻 Focused on **IT Engineering, Data Analytics, Machine Learning and Artificial Intelligence**  
 
