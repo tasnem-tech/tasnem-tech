@@ -2,11 +2,16 @@
 
 ## IT Engineering | Applied Computing | Data Analytics | Machine Learning | AI Research
 
-🎓 **BSc (Hons) Applied Computing — University of Portsmouth**  
+🎓 BSc (Hons) Applied Computing — School of Computing, University of Portsmouth
+
 💻 Focused on **IT Engineering, Data Analytics, Machine Learning and Artificial Intelligence**  
+
 📊 Technical skills in **Python, SQL, Power BI, Excel and Data Visualisation**  
+
 🔬 Published researcher with experience in **Q1-ranked peer-reviewed journals**  
+
 📚 **Level 5 Teaching Qualification (FE)** with IT teaching experience in UK secondary education  
+
 ✈️ Previous professional experience at **London Luton Airport**
 
 
